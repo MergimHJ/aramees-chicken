@@ -1,0 +1,26 @@
+# Fichiers de configuration sensibles
+config.php
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+*.tmp
+*.temp
+
+# Cache
+cache/
+tmp/
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Uploads
+uploads/
+images/uploads/
